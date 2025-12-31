@@ -7,7 +7,6 @@ Desenvolvedor e pesquisador em **IoT aplicado à agricultura de precisão**, com
 arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
 
 ## 🔬 Áreas de Interesse em Pesquisa
----
 
 - Internet das Coisas (IoT)
 - Sistemas Distribuídos
@@ -17,7 +16,6 @@ arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
 - Visualização e Análise de Dados
 
 ## 🚜 Projeto em Destaque — Smart Farm IoT System
----
 
 Arquitetura IoT segura e modular para monitoramento ambiental e automação agrícola.
 
@@ -30,7 +28,6 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 🧪 Projeto estruturado para evolução em **pesquisa de mestrado**.
 
 ## 🧰 Tecnologias
----
 
 - ESP32 / Firmware IoT
 - MQTT (Mosquitto)
@@ -42,7 +39,6 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 - CELUS Design Studio (Hardware assistido por IA)
 
 ## 📊 Status Acadêmico
----
 
 - ✔️ Fase 1 — Infraestrutura IoT (Concluída)
 - ✔️ Fase 2 — Processamento e Visualização (Concluída)
@@ -50,7 +46,6 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 - 🔮 Fase 4 — Automação e Pesquisa Científica (Planejada)
 
 ## 🔗 Links
----
 
 - LinkedIn: https://www.linkedin.com/in/gustavofpaluch
 - GitHub: https://github.com/GustavoFelipe85
