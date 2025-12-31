@@ -1,16 +1,59 @@
-## Hi there 👋
+# Gustavo F. Paluch
 
-<!--
-**GustavoFelipe85/GustavoFelipe85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro da Computação | IoT • Sistemas Distribuídos • Segurança  
+📍 UNIOESTE — Cascavel, PR, Brasil  
 
-Here are some ideas to get you started:
+Desenvolvedor e pesquisador em **IoT aplicado à agricultura de precisão**, com foco em
+arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Áreas de Interesse em Pesquisa
+---
+
+- Internet das Coisas (IoT)
+- Sistemas Distribuídos
+- Agricultura de Precisão
+- Automação e Controle
+- Segurança em Sistemas Ciberfísicos
+- Visualização e Análise de Dados
+
+## 🚜 Projeto em Destaque — Smart Farm IoT System
+---
+
+Arquitetura IoT segura e modular para monitoramento ambiental e automação agrícola.
+
+🔗 Repositório:  
+👉 https://github.com/GustavoFelipe85/smart-farm-iot-system
+
+📚 Documentação técnica e acadêmica:  
+👉 `/docs` (Fases 1, 2 e 3 documentadas)
+
+🧪 Projeto estruturado para evolução em **pesquisa de mestrado**.
+
+## 🧰 Tecnologias
+---
+
+- ESP32 / Firmware IoT
+- MQTT (Mosquitto)
+- Python (FastAPI, Workers)
+- InfluxDB (Time-Series)
+- Grafana
+- Docker / Docker Compose
+- GitHub Actions (CI)
+- CELUS Design Studio (Hardware assistido por IA)
+
+## 📊 Status Acadêmico
+---
+
+- ✔️ Fase 1 — Infraestrutura IoT (Concluída)
+- ✔️ Fase 2 — Processamento e Visualização (Concluída)
+- 🟡 Fase 3 — Hardware Real e Prototipagem (Em execução)
+- 🔮 Fase 4 — Automação e Pesquisa Científica (Planejada)
+
+## 🔗 Links
+---
+
+- LinkedIn: https://www.linkedin.com/in/gustavofpaluch
+- GitHub: https://github.com/GustavoFelipe85
+- CELUS Design Studio: https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas
+
+
