@@ -1,3 +1,20 @@
+<!-- ===== BANNER (opcional) ===== -->
+<p align="center">
+  <!-- Suba um banner em /assets/banner.png e use: -->
+  <!-- <img src="assets/banner.png" alt="banner" width="100%"/> -->
+</p>
+
+<h1 align="center">Gustavo F. Paluch</h1>
+<p align="center">
+  Computation Engineering • IoT • Cybersecurity • Data Pipelines • Research-driven Projects
+</p>
+
+<p align="center">
+  <a href="https://github.com/GustavoFelipe85">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gustavofpaluch">LinkedIn</a> •
+  <a href="https://github.com/GustavoFelipe85/smart-farm-iot-system">Smart Farm IoT System</a>
+</p>
+
 # Gustavo F. Paluch
 
 🎓 Engenheiro da Computação | IoT • Sistemas Distribuídos • Segurança  
