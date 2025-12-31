@@ -1,7 +1,7 @@
 # Gustavo F. Paluch
 
 🎓 Engenheiro da Computação | IoT • Sistemas Distribuídos • Segurança  
-📍 UNIOESTE — Cascavel, PR, Brasil  
+📍 Cascavel, PR, Brasil  
 
 Desenvolvedor e pesquisador em **IoT aplicado à agricultura de precisão**, com foco em
 arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
