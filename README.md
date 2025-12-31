@@ -51,6 +51,7 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 ## 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/gustavofpaluch
+- Cnpq Lattes: https://lattes.cnpq.br/4574602818152865
 - GitHub: https://github.com/GustavoFelipe85
 - CELUS Design Studio: https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas
 
