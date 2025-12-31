@@ -28,6 +28,7 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 👉 `/docs` (Fases 1, 2 e 3 documentadas)
 
 🧪 Projeto estruturado para evolução em **pesquisa de mestrado**.
+🏫 PPGComp-UNIOESTE 
 
 ## 🧰 Tecnologias
 
