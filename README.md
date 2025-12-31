@@ -11,9 +11,11 @@ arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
 - Internet das Coisas (IoT)
 - Sistemas Distribuídos
 - Agricultura de Precisão
-- Automação e Controle
 - Segurança em Sistemas Ciberfísicos
 - Visualização e Análise de Dados
+- Sistemas Ciberfísicos (CPS)
+- Automação e Controle Inteligente
+
 
 ## 🚜 Projeto em Destaque — Smart Farm IoT System
 
@@ -35,7 +37,7 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 - InfluxDB (Time-Series)
 - Grafana
 - Docker / Docker Compose
-- GitHub Actions (CI)
+- CI/CD com GitHub Actions
 - CELUS Design Studio (Hardware assistido por IA)
 
 ## 📊 Status Acadêmico
