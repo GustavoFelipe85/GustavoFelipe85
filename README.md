@@ -10,6 +10,8 @@
 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch) • 
 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
 
+🇬🇧 English version available: [README_en.md](README_en.md)
+
 </div>
 
 ---
