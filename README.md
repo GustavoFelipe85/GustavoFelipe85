@@ -1,27 +1,27 @@
-<!-- ===== BANNER (opcional) ===== -->
-<p align="center">
-  <!-- Suba um banner em /assets/banner.png e use: -->
-  <!-- <img src="assets/banner.png" alt="banner" width="100%"/> -->
-</p>
-
-<h1 align="center">Gustavo F. Paluch</h1>
-<p align="center">
-  Computation Engineering • IoT • Cybersecurity • Data Pipelines • Research-driven Projects
-</p>
-
-<p align="center">
-  <a href="https://github.com/GustavoFelipe85">GitHub</a> •
-  <a href="https://www.linkedin.com/in/gustavofpaluch">LinkedIn</a> •
-  <a href="https://github.com/GustavoFelipe85/smart-farm-iot-system">Smart Farm IoT System</a>
-</p>
+<div align="center">
 
 # Gustavo F. Paluch
 
-🎓 Engenheiro da Computação | IoT • Sistemas Distribuídos • Segurança  
-📍 Cascavel, PR, Brasil  
+**Computation Engineering • IoT • Cybersecurity • Data Pipelines • Research-driven Projects**
 
-Desenvolvedor e pesquisador em **IoT aplicado à agricultura de precisão**, com foco em
-arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
+[GitHub](https://github.com/GustavoFelipe85) • 
+[LinkedIn](https://www.linkedin.com/in/gustavofpaluch) • 
+[Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Engenheiro da Computação  
+🔐 IoT • Sistemas Distribuídos • Segurança  
+📍 Cascavel, Paraná — Brasil  
+
+Atuo como desenvolvedor e pesquisador em **IoT aplicado à agricultura de precisão**, com foco em **arquiteturas seguras, reprodutíveis e orientadas à pesquisa experimental**.  
+Meu trabalho conecta **hardware real, pipelines de dados e análise científica**, com documentação técnica rigorosa.
+
+---
 
 ## 🔬 Áreas de Interesse em Pesquisa
 
@@ -30,26 +30,27 @@ arquiteturas seguras, sistemas reprodutíveis e pesquisa experimental.
 - Agricultura de Precisão
 - Segurança em Sistemas Ciberfísicos
 - Visualização e Análise de Dados
-- Sistemas Ciberfísicos (CPS)
 - Automação e Controle Inteligente
 
+---
 
 ## 🚜 Projeto em Destaque — Smart Farm IoT System
 
-Arquitetura IoT segura e modular para monitoramento ambiental e automação agrícola.
+Arquitetura IoT segura e modular para **monitoramento ambiental e automação agrícola**, estruturada em fases experimentais documentadas.
 
 🔗 Repositório:  
-👉 https://github.com/GustavoFelipe85/smart-farm-iot-system
+https://github.com/GustavoFelipe85/smart-farm-iot-system  
 
 📚 Documentação técnica e acadêmica:  
-👉 `/docs` (Fases 1, 2 e 3 documentadas)
+➡️ `/docs` (Fases 1, 2 e 3 documentadas)
 
-🧪 Projeto estruturado para evolução em **pesquisa de mestrado**.
-🏫 PPGComp-UNIOESTE 
+🎓 Projeto estruturado para evolução em **pesquisa de mestrado** — PPGComp / UNIOESTE
 
-## 🧰 Tecnologias
+---
 
-- ESP32 / Firmware IoT
+## 🛠️ Tecnologias
+
+- ESP32 (Firmware IoT)
 - MQTT (Mosquitto)
 - Python (FastAPI, Workers)
 - InfluxDB (Time-Series)
@@ -58,18 +59,24 @@ Arquitetura IoT segura e modular para monitoramento ambiental e automação agr�
 - CI/CD com GitHub Actions
 - CELUS Design Studio (Hardware assistido por IA)
 
-## 📊 Status Acadêmico
+---
 
-- ✔️ Fase 1 — Infraestrutura IoT (Concluída)
-- ✔️ Fase 2 — Processamento e Visualização (Concluída)
+## 📈 Status Acadêmico do Projeto
+
+- ✅ Fase 1 — Infraestrutura IoT (Concluída)
+- ✅ Fase 2 — Processamento e Visualização (Concluída)
 - 🟡 Fase 3 — Hardware Real e Prototipagem (Em execução)
-- 🔮 Fase 4 — Automação e Pesquisa Científica (Planejada)
+- 🔜 Fase 4 — Automação e Pesquisa Científica (Planejada)
 
-## 🔗 Links
+---
 
-- LinkedIn: https://www.linkedin.com/in/gustavofpaluch
-- Cnpq Lattes: https://lattes.cnpq.br/4574602818152865
-- GitHub: https://github.com/GustavoFelipe85
-- CELUS Design Studio: https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas
+## 🔗 Links Acadêmicos e Profissionais
+
+- 🌐 GitHub: https://github.com/GustavoFelipe85  
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavofpaluch  
+- 🧪 ORCID: https://orcid.org/0009-0007-1926-5139  
+- 📚 Lattes (CNPq): https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=AC8AC8EB81CBAFEA307845F9E6B3BF1#  
+- 🧠 CELUS Design Studio: https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas  
+- ✉️ E-mail: gustavo.f.p.f@outlook.com.br
 
 
