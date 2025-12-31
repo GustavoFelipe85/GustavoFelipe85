@@ -3,14 +3,13 @@
 <div align="center">
 
 # Gustavo F. Paluch
+🇬🇧 English version available: [README_en.md](README_en.md)
 
 **Computation Engineering • IoT • Cybersecurity • Data Pipelines • Research-driven Projects**
 
 [GitHub](https://github.com/GustavoFelipe85) • 
 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch) • 
 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
-
-🇬🇧 English version available: [README_en.md](README_en.md)
 
 </div>
 
