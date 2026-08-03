@@ -1,6 +1,7 @@
-<img width="2048" height="682" alt="ChatGPT Image 2 de ago  de 2026, 22_31_51" src="https://github.com/user-attachments/assets/bd97a2bf-4a18-4f81-84b0-412fa0bff8f8" />
+<img width="2048" height="682" alt="Gustavo F. Paluch profile banner" src="https://github.com/user-attachments/assets/bd97a2bf-4a18-4f81-84b0-412fa0bff8f8" />
 
-````markdown
+<div align="center">
+
 # Gustavo F. Paluch
 
 [🇧🇷 Versão em Português](README.md)
