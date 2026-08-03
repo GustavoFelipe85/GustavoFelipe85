@@ -1,114 +1,124 @@
-<img width="1527" height="385" alt="banner png" src="https://github.com/user-attachments/assets/469cee65-0253-4cf4-8cad-1417e3c72f4a" />
+````markdown
+<img width="1527" height="385" alt="Gustavo F. Paluch profile banner" src="https://github.com/user-attachments/assets/469cee65-0253-4cf4-8cad-1417e3c72f4a" />
+
+<div align="center">
 
 # Gustavo F. Paluch
 
-🇧🇷 [Versão em Português](README.md)
+[🇧🇷 Versão em Português](README.md)
 
----
+**Computer Engineer • Cybersecurity • IT Infrastructure • DevOps • IoT • Applied AI**
 
-**Computation Engineering • IoT • Cybersecurity • Data Pipelines • Research-driven Projects**
+[GitHub](https://github.com/GustavoFelipe85) •
+[LinkedIn](https://www.linkedin.com/in/gustavofpaluch) •
+[ORCID](https://orcid.org/0009-0007-1926-5139) •
+[Lattes](https://lattes.cnpq.br/4574602818152865)
 
-🔗 [GitHub](https://github.com/GustavoFelipe85) •  
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch) •  
-🌱 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Computation Engineer**  
-🔐 **IoT • Distributed Systems • Security**  
-📍 **Cascavel, Paraná — Brazil**
+I am a **Computer Engineer** with technical experience and research interests in **cybersecurity, IT infrastructure, DevOps, the Internet of Things, and applied artificial intelligence**.
 
-I work as a developer and researcher in **IoT applied to precision agriculture**, with a strong focus on **secure, reproducible architectures** and **experiment-oriented research**.
+I develop projects that integrate **embedded hardware, secure communication, data pipelines, containerization, observability, and computational experimentation**, with an emphasis on reproducible architectures and rigorous technical documentation.
 
-My background combines **software, infrastructure, and hardware**, enabling end-to-end system design — from embedded devices to data pipelines and analytical dashboards — always supported by rigorous technical documentation.
+I hold the **Cisco Certified CyberOps Associate** certification and have contributed through the **Google Bug Hunter** program.
 
----
-
-## 🔬 Research Interests
-
-- Internet of Things (IoT)
-- Distributed Systems
-- Precision Agriculture
-- Cyber-Physical Systems Security
-- Data Analysis and Visualization
-- Cyber-Physical Systems (CPS)
-- Automation and Intelligent Control
+📍 Cascavel, Paraná — Brazil
 
 ---
 
-## 🌾 Featured Project — Smart Farm IoT System
+## 🔬 Technical and Research Interests
 
-A **secure and modular IoT architecture** for environmental monitoring and agricultural automation.
-
-### 🔹 Repository
-👉 https://github.com/GustavoFelipe85/smart-farm-iot-system
-
-### 🔹 Technical and Academic Documentation
-📚 All documentation is available in:
-👉 [`/docs`](./docs)
-
-Including:
-- Phase 1 — Infrastructure and Secure Communication  
-- Phase 2 — Data Ingestion, Persistence and Visualization  
-- Phase 3 — Real Hardware, Prototyping and Laboratory Testing  
-
-📌 The project is structured to support **graduate-level research** and **scientific experimentation**, serving as a foundation for future automation, control and ML-based decision systems.
+- Cybersecurity and infrastructure monitoring
+- Linux infrastructure, Docker, and automation
+- Internet of Things and cyber-physical systems
+- Distributed systems and data pipelines
+- Precision agriculture and agricultural automation
+- Computer architecture and performance analysis
+- Parallel computing with OpenMP and MPI
+- Artificial intelligence applied to systems and data
 
 ---
 
-## 🧰 Technologies
+## 🚜 Featured Project — Smart Farm IoT System
 
-- ESP32 (IoT Firmware)
-- MQTT (Mosquitto)
-- Python (FastAPI, Workers)
-- InfluxDB (Time-Series Database)
-- Grafana (Analytical Dashboards)
-- Docker / Docker Compose
-- CI/CD with GitHub Actions
-- CELUS Design Studio (AI-assisted Hardware Design)
+The **Smart Farm IoT System** is a secure, modular, and reproducible IoT architecture for environmental monitoring, designed for future expansion into agricultural automation.
 
----
+### Architecture
 
-## 🎓 Academic Status
+```text
+ESP32 + sensors → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
+````
 
-- ✅ **Phase 1 — IoT Infrastructure** (Completed)
-- ✅ **Phase 2 — Data Processing & Visualization** (Completed)
-- 🟡 **Phase 3 — Real Hardware & Prototyping** (In Progress)
-- 📌 **Phase 4 — Automation & Scientific Research** (Planned)
+### Main Features
 
----
+* authenticated MQTT communication with QoS 1;
+* versioned data contract using JSON Schema;
+* structural validation before persistence;
+* normalization of legacy payloads;
+* API developed with FastAPI;
+* reproducible environment using Docker Compose;
+* observability with InfluxDB and Grafana;
+* continuous integration with GitHub Actions.
 
-## 🔧 CELUS Integration (Phase 3 — AI-assisted Hardware)
+### Preliminary Experimental Evidence
 
-In Phase 3, the project transitions from simulation to **real hardware**.
+* average pipeline latency of approximately **118 ms** with validation enabled;
+* throughput above **10,000 messages per hour**;
+* **100% of invalid payloads blocked** in strict-validation tests.
 
-The electronic design is developed using **CELUS Design Studio**, enabling:
-
-- automated schematic generation (ESP32 + sensors)
-- assisted PCB creation
-- standardized electronic documentation
-- Bill of Materials (BOM)
-- detailed pinout per module (MCU + sensors)
-- reproducible laboratory and testing infrastructure
-
-📎 **Phase 3 hardware exports (Hardware v1):**  
-👉 [`/hardware/celus-v1`](./hardware/celus-v1)
-
-🔗 **CELUS Design Studio Project:**  
-https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas
+🔗 [Access the repository](https://github.com/GustavoFelipe85/smart-farm-iot-system)
+📚 [Technical and academic documentation](https://github.com/GustavoFelipe85/smart-farm-iot-system/tree/main/docs)
 
 ---
 
-## 🔗 Links
+## 🎓 Education and Academic Activity
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/gustavofpaluch  
-- 🔗 GitHub: https://github.com/GustavoFelipe85  
-- 🔗 ORCID: https://orcid.org/0009-0007-1926-5139  
-- 🔗 CELUS Design Studio: https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas  
-- 📧 Email: gustavo.f.p.f@outlook.com.br
+* **Bachelor’s Degree in Computer Engineering — UNISA, 2024**
+* In 2026, attended the **Computer Architecture** course as a **special student** in the Graduate Program in Computer Science at UNIOESTE. The course comprised 60 hours and 4 academic credits.
+* Experimental studies involving processors, memory hierarchy, cache memory, performance analysis, OpenMP, and MPI.
 
 ---
 
-🧠 *This profile and its projects are continuously updated as part of an academic and experimental research trajectory.*
+## 🛠️ Technologies
+
+### Languages and Development
+
+`Python` • `C` • `C++` • `FastAPI` • `JSON Schema`
+
+### Infrastructure and DevOps
+
+`Linux` • `Ubuntu` • `Docker` • `Docker Compose` • `GitHub Actions` • `CI/CD`
+
+### IoT and Data
+
+`ESP32` • `MQTT` • `Mosquitto` • `InfluxDB` • `Grafana` • `Time-Series Data`
+
+### Computer Architecture and Parallel Computing
+
+`Valgrind` • `Callgrind` • `OpenMP` • `MPI` • `MPICH`
+
+---
+
+## 🔗 Academic and Professional Links
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch)
+* 🧪 [ORCID](https://orcid.org/0009-0007-1926-5139)
+* 📚 [Lattes CV](https://lattes.cnpq.br/4574602818152865)
+* 📦 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
+* 🧠 [CELUS Design Studio](https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas)
+* 📄 [Zenodo / DOI](https://doi.org/10.5281/zenodo.19040627)
+* ✉️ `gustavo.f.p.f@outlook.com.br`
+
+---
+
+<div align="center">
+
+Projects driven by **security, reproducibility, experimentation, and rigorous technical documentation**.
+
+</div>
+```
+
