@@ -1,4 +1,4 @@
-<img width="1527" height="385" alt="Banner de perfil de Gustavo F. Paluch" src="https://github.com/user-attachments/assets/402b268d-79ab-4a85-a542-53d706268be2" />
+<img width="2048" height="682" alt="ChatGPT Image 2 de ago  de 2026, 22_31_51" src="https://github.com/user-attachments/assets/95a84202-f829-464a-9a12-5670f07e7abf" />
 
 <div align="center">
 
