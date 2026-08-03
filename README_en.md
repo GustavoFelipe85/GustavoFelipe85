@@ -72,6 +72,7 @@ ESP32 + sensors → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
 🔗 [Access the repository](https://github.com/GustavoFelipe85/smart-farm-iot-system)
 
 📚 [Technical and academic documentation](https://github.com/GustavoFelipe85/smart-farm-iot-system/tree/main/docs)
+
 ---
 
 ## 🎓 Education and Academic Activity
