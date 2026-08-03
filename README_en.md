@@ -70,8 +70,8 @@ ESP32 + sensors → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
 * **100% of invalid payloads blocked** in strict-validation tests.
 
 🔗 [Access the repository](https://github.com/GustavoFelipe85/smart-farm-iot-system)
-📚 [Technical and academic documentation](https://github.com/GustavoFelipe85/smart-farm-iot-system/tree/main/docs)
 
+📚 [Technical and academic documentation](https://github.com/GustavoFelipe85/smart-farm-iot-system/tree/main/docs)
 ---
 
 ## 🎓 Education and Academic Activity
@@ -113,13 +113,12 @@ ESP32 + sensors → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
 * ✉️ `gustavo.f.p.f@outlook.com.br`
 
 ---
-
 <div align="center">
 
 Projects driven by **security, reproducibility, experimentation, and rigorous technical documentation**.
 
 </div>
-```
+
 
 
 
