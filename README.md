@@ -1,1 +1,52 @@
-{"repository_full_name":"GustavoFelipe85/GustavoFelipe85","path":"README.md","content":"<img width=\"1527\" height=\"385\" alt=\"Banner de perfil de Gustavo F. Paluch\" src=\"https://github.com/user-attachments/assets/402b268d-79ab-4a85-a542-53d706268be2\" />\n\n<div align=\"center\">\n\n# Gustavo F. Paluch\n\n[🇬🇧 English version](README_en.md)\n\n**Engenheiro da Computação • Cibersegurança • Infraestrutura de TI • DevOps • IoT • IA Aplicada**\n\n[GitHub](https://github.com/GustavoFelipe85) •\n[LinkedIn](https://www.linkedin.com/in/gustavofpaluch) •\n[ORCID](https://orcid.org/0009-0007-1926-5139) •\n[Lattes](https://lattes.cnpq.br/4574602818152865)\n\n</div>\n\n---\n\n## 👨‍💻 Sobre mim\n\nSou **Engenheiro da Computação**, com atuação e interesse técnico em **cibersegurança, infraestrutura de TI, DevOps, Internet das Coisas e inteligência artificial aplicada**.\n\nDesenvolvo projetos que conectam **hardware embarcado, comunicação segura, pipelines de dados, conteinerização, observabilidade e experimentação computacional**, com ênfase em arquiteturas reprodutíveis e documentação técnica rigorosa.\n\nPossuo a certificação **Cisco Certified CyberOps Associate** e participação como contribuidor do **Google Bug Hunter**.\n\n📍 Cascavel, Paraná — Brasil\n\n---\n\n## 🔬 Áreas de atuação e pesquisa\n\n- Cibersegurança e monitoramento de ambientes\n- Infraestrutura Linux, Docker e automação\n- Internet das Coisas e sistemas ciberfísicos\n- Sistemas distribuídos e pipelines de dados\n- Agricultura de precisão e automação agrícola\n- Arquitetura de computadores e análise de desempenho\n- Computação paralela com OpenMP e MPI\n- Inteligência artificial aplicada a sistemas e dados\n\n---\n\n## 🚜 Projeto em destaque — Smart Farm IoT System\n\nO **Smart Farm IoT System** é uma arquitetura IoT segura, modular e reprodutível para monitoramento ambiental e evolução futura para automação agrícola.\n\n### Arquitetura\n\n```text\nESP32 + sensores → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana\n```\n\n### Principais recursos\n\n- comunicação MQTT autenticada com QoS 1;\n- contrato de dados versionado com JSON Schema;\n- validação estrutural antes da persistência;\n- normalização de payloads legados;\n- API com FastAPI;\n- ambiente reproduzível com Docker Compose;\n- observabilidade com InfluxDB e Grafana;\n- integração contínua com GitHub Actions.\n\n### Evidências experimentais preliminares\n\n- latência média do pipeline próxima de **118 ms** com validação ativa;\n- throughput superior a **10.000 mensagens por hora**;\n- bloqueio de **100% dos payloads inválidos** nos testes com validação estrita.\n\n🔗 [Acessar o repositório](https://github.com/GustavoFelipe85/smart-farm-iot-system)  \n📚 [Documentação técnica e acadêmica](https://github.com/GustavoFelipe85/smart-farm-iot-system/tree/main/docs)\n\n---\n\n## 🎓 Formação e atividade acadêmica\n\n- **Bacharel em Engenharia da Computação — UNISA, 2024**\n- Em 2026, participou como **aluno especial** da disciplina de **Arquitetura de Computadores** no PPGComp/UNIOESTE, com 60 horas e 4 créditos.\n- Estudos experimentais envolvendo processadores, hierarquia de memória, memória cache, análise de desempenho, OpenMP e MPI.\n\n---\n\n## 🛠️ Tecnologias\n\n### Linguagens e desenvolvimento\n\n`Python` • `C` • `C++` • `FastAPI` • `JSON Schema`\n\n### Infraestrutura e DevOps\n\n`Linux` • `Ubuntu` • `Docker` • `Docker Compose` • `GitHub Actions` • `CI/CD`\n\n### IoT e dados\n\n`ESP32` • `MQTT` • `Mosquitto` • `InfluxDB` • `Grafana` • `Séries temporais`\n\n### Arquitetura e paralelismo\n\n`Valgrind` • `Callgrind` • `OpenMP` • `MPI` • `MPICH`\n\n---\n\n## 🔗 Links acadêmicos e profissionais\n\n- 💼 [LinkedIn](https://www.linkedin.com/in/gustavofpaluch)\n- 🧪 [ORCID](https://orcid.org/0009-0007-1926-5139)\n- 📚 [Currículo Lattes](https://lattes.cnpq.br/4574602818152865)\n- 📦 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)\n- 🧠 [CELUS Design Studio](https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas)\n- 📄 [Zenodo / DOI](https://doi.org/10.5281/zenodo.19040627)\n- ✉️ `gustavo.f.p.f@outlook.com.br`\n\n---\n\n<div align=\"center\">\n\nProjetos orientados por **segurança, reprodutibilidade, experimentação e documentação técnica**.\n\n</div>\n","message":"docs: modernize Portuguese profile README","sha":"bc36f5221284abf26097ad1bdf9c3e49dcda8bda","branch":"main"}
+<img width="1527" height="385" alt="Banner de perfil de Gustavo F. Paluch" src="https://github.com/user-attachments/assets/402b268d-79ab-4a85-a542-53d706268be2" />
+
+<div align="center">
+
+# Gustavo F. Paluch
+
+[🇬🇧 English version](README_en.md)
+
+**Engenheiro da Computação • Cibersegurança • Infraestrutura de TI • DevOps • IoT • IA Aplicada**
+
+[GitHub](https://github.com/GustavoFelipe85) •
+[LinkedIn](https://www.linkedin.com/in/gustavofpaluch) •
+[ORCID](https://orcid.org/0009-0007-1926-5139) •
+[Lattes](https://lattes.cnpq.br/4574602818152865)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou **Engenheiro da Computação**, com atuação e interesse técnico em **cibersegurança, infraestrutura de TI, DevOps, Internet das Coisas e inteligência artificial aplicada**.
+
+Desenvolvo projetos que conectam **hardware embarcado, comunicação segura, pipelines de dados, conteinerização, observabilidade e experimentação computacional**, com ênfase em arquiteturas reprodutíveis e documentação técnica rigorosa.
+
+Possuo a certificação **Cisco Certified CyberOps Associate** e participação como contribuidor do **Google Bug Hunter**.
+
+📍 Cascavel, Paraná — Brasil
+
+---
+
+## 🔬 Áreas de atuação e pesquisa
+
+- Cibersegurança e monitoramento de ambientes
+- Infraestrutura Linux, Docker e automação
+- Internet das Coisas e sistemas ciberfísicos
+- Sistemas distribuídos e pipelines de dados
+- Agricultura de precisão e automação agrícola
+- Arquitetura de computadores e análise de desempenho
+- Computação paralela com OpenMP e MPI
+- Inteligência artificial aplicada a sistemas e dados
+
+---
+
+## 🚜 Projeto em destaque — Smart Farm IoT System
+
+O **Smart Farm IoT System** é uma arquitetura IoT segura, modular e reprodutível para monitoramento ambiental e evolução futura para automação agrícola.
+
+### Arquitetura
+
+```text
+ESP32 + sensores → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
