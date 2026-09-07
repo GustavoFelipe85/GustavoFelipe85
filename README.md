@@ -109,7 +109,6 @@ ESP32 + sensores → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
 * 📦 [Smart Farm IoT System](https://github.com/GustavoFelipe85/smart-farm-iot-system)
 * 🧠 [CELUS Design Studio](https://app.celus.io/design-studio/692de65654a678ec656686fe/design-canvas)
 * 📄 [Zenodo / DOI](https://doi.org/10.5281/zenodo.19040627)
-* ✉️ `gustavo.f.p.f@outlook.com.br`
 
 ---
 
