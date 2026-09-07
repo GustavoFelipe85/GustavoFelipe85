@@ -1,27 +1,5 @@
 <img width="2048" height="682" alt="ChatGPT Image 2 de ago  de 2026, 22_31_51" src="https://github.com/user-attachments/assets/95a84202-f829-464a-9a12-5670f07e7abf" />
 
-A estrutura proposta é tecnicamente sólida, mas contém **dois pontos críticos** que violam a coerência e os dados verificáveis do seu perfil antes de realizar o commit:
-
----
-
-### Inconsistências Críticas a Corrigir
-
-1. **Reexposição do E-mail em Texto Claro (Quebra de Higiene Digital):**
-* A linha `- ✉️ gustavo.f.p.f@outlook.com.br` foi reinserida na seção de links.
-* **Problema:** Expor o e-mail em texto puro no `README.md` anula a diretriz de redução da superfície de contato que o próprio artigo defende contra *scrapers* de engenharia social. O contato deve permanecer centralizado no LinkedIn.
-
-
-2. **Placeholder Quebrado de DOI:**
-* A linha `- 📄 [Zenodo / DOI](https://doi.org/10.5281/zenodo.XXXX)` contém `XXXX` como valor fictício.
-* Links com prefixos vazios ou fictícios quebram a credibilidade técnica. Deve-se apontar para o DOI real já emitido (`10.5281/zenodo.21706931`) ou direcionar para a página geral de depósitos do autor.
-
-
-
----
-
-### Versão Corrigida e Higienizada para Commit
-
-```markdown
 ## Gustavo F. Paluch
 
 🇬🇧 [English version](./README_en.md)
