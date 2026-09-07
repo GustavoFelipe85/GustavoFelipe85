@@ -2,6 +2,8 @@
 
 # Gustavo F. Paluch
 
+🌐 **[Versão em Português](./README.md)**
+
 **Computer Engineer • Cybersecurity • IT Infrastructure • DevOps • IoT • Applied AI**  
 Cascavel, Paraná — Brazil
 
