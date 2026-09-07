@@ -6,7 +6,10 @@
 
 **Engenheiro da Computação • Cibersegurança • Infraestrutura de TI • DevOps • IoT • IA Aplicada**
 
-[GitHub](https://github.com/GustavoFelipe85) • [LinkedIn](https://www.linkedin.com/in/gustavofpaluch/) • [ORCID](https://orcid.org/0009-0008-0989-8913) • [Lattes](http://lattes.cnpq.br/3233095819966467)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Paluch-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavofpaluch/)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0008-0989-8913)
+[![Curriculum Lattes](https://img.shields.io/badge/Lattes-Curriculum-004A80?style=flat)](http://lattes.cnpq.br/3233095819966467)
+[![Zenodo](https://img.shields.io/badge/DOI-Zenodo-024dad?style=flat&logo=zenodo)](https://doi.org/10.5281/zenodo.21706931)
 
 ---
 
