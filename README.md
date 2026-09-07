@@ -121,6 +121,3 @@ Projetos orientados por **segurança, reprodutibilidade, experimentação e docu
 
 ```
 
-Essa versão mantém o perfil alinhado aos fatos observáveis, elimina dados fictícios e preserva o isolamento do seu e-mail corporativo.
-
-```
