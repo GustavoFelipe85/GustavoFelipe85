@@ -1,23 +1,5 @@
 <img width="2048" height="682" alt="Gustavo F. Paluch profile banner" src="https://github.com/user-attachments/assets/bd97a2bf-4a18-4f81-84b0-412fa0bff8f8" />
 
-<div align="center">
-
-### 1. Link do TabNews no LinkedIn
-
-Não encontrei dados verificáveis sobre a existência de uma página institucional ou *company page* formalmente administrada pela equipe do TabNews no LinkedIn.
-
-O ecossistema oficial é mantido diretamente pelo portal web e pelo repositório aberto no GitHub:
-
-* **Portal Oficial:** [https://www.tabnews.com.br](https://www.tabnews.com.br)
-* **Repositório Open Source:** [https://github.com/filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br)
-
-Ao citar o TabNews em posts ou artigos no LinkedIn, a convenção padrão é marcar a menção como texto e fornecer o link direto da publicação.
-
----
-
-### 2. README em Inglês (`README_en.md`) para o GitHub
-
-```markdown
 # Gustavo F. Paluch
 
 **Computer Engineer • Cybersecurity • IT Infrastructure • DevOps • IoT • Applied AI**  
