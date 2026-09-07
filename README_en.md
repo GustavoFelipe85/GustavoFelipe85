@@ -81,8 +81,6 @@ The **Smart Farm IoT System** is a modular, secure, and reproducible IoT archite
 ### 🎓 Academic Background & Research
 
 * **B.S. in Computer Engineering** — UNISA (2024).
-* **Special Student in Computer Architecture (2026):** Graduate Program in Computer Science (PPGComp/UNIOESTE) — 60 hours, 4 credits.
-* Empirical investigations covering processor microarchitectures, cache memory hierarchies, memory profiling with Valgrind (Callgrind/Cachegrind), and parallel scalability with OpenMP and MPI (MPICH).
 
 ---
 
