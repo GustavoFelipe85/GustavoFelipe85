@@ -105,7 +105,7 @@ The **Smart Farm IoT System** is a modular, secure, and reproducible IoT archite
 
 ---
 
-Projects guided by security, reproducibility and technical documentation.
+Projetos orientados por **segurança, reprodutibilidade, experimentação e documentação técnica**.
 
 ```
 
