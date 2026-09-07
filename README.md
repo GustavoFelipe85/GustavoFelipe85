@@ -82,9 +82,7 @@ ESP32 + sensores → MQTT/Mosquitto → Python Consumer → InfluxDB → Grafana
 
 ### 🎓 Formação e atividade acadêmica
 
-* **Bacharel em Engenharia da Computação — UNISA, 2024**
-* Em 2026, participou como **aluno especial** da disciplina de **Arquitetura de Computadores** no PPGComp/UNIOESTE (60 horas, 4 créditos).
-* Estudos experimentais envolvendo microarquitetura de processadores, hierarquia de memória, taxa de falha de cache (*cache misses*), profiling com Valgrind e escalabilidade com OpenMP e MPI.
+* **Bacharel em Engenharia da Computação — UNISA, 2025**
 
 ---
 
